@@ -1,0 +1,7 @@
+Flask==3.0.0
+flask-sock==0.7.0
+Flask-Cors==4.0.1
+google-generativeai==0.8.5
+python-dotenv==1.0.0
+gunicorn==21.2.0
+simple-websocket==1.0.0
